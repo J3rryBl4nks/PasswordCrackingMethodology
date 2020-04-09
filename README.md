@@ -44,3 +44,13 @@ Then Top2Billion.txt
 Then Top2Billion with rules.
 
 Then take all the cracked passwords from the potfile and run them through proprietary in house tools (To be released to the public soon).
+
+When time permits, an incrementing brute force: hashcat -m WHATEVER hashes.txt -a 3 ?a?a?a?a?a?a?a?a --increment
+
+At that point I then start re-running from the top with additional rules in this order:
+
+best64 + OneRule
+best64 + H0bRules
+best64 + dive
+
+Then start switching rule order and adding in toggles and leetspeak.
