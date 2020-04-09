@@ -72,7 +72,9 @@ When time permits, an incrementing brute force: hashcat -m WHATEVER hashes.txt -
 At that point I then start re-running from the top with additional rules in this order:
 
 best64 + OneRule
+
 best64 + H0bRules
+
 best64 + dive
 
 Then start switching rule order and adding in toggles and leetspeak.
