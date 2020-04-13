@@ -78,3 +78,7 @@ best64 + H0bRules
 best64 + dive
 
 Then start switching rule order and adding in toggles and leetspeak.
+
+Purple rain: https://www.netmux.com/blog/purple-rain-attack
+
+I like running Purple Rain with hashkiller-dict.txt
