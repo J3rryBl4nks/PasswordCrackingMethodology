@@ -9,6 +9,8 @@ crackstation: https://crackstation.net/crackstation-wordlist-password-cracking-d
 
 real-passwords: https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords
 
+Password aggregation from FlameOfIgnis: https://github.com/FlameOfIgnis/Pwdb-Public/tree/master/wordlists
+
 
 The rest of the custom wordlists are sourced from: https://hashes.org/leaks.php (I take wordlists and combine and de-dupe them based on the clear text from cracked leaks)
 
@@ -17,6 +19,10 @@ Rules:
 OneRuleToRuleThemAll: https://github.com/NotSoSecure/password_cracking_rules
 
 H0bRules: https://github.com/praetorian-code/Hob0Rules
+
+Masks:
+
+List of masks from a ton of cracked passwords: https://github.com/golem445/Corporate_Masks
 
 
 First passthrough:
