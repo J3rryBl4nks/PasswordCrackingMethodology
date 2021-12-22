@@ -70,7 +70,12 @@ Then Top2Billion.txt
 Then Top2Billion with rules.
 
 
-Then take all the cracked passwords from the potfile and run them through proprietary in house tools (To be released to the public soon).
+Add masks to your dictionary attacks: 
+
+https://hashcat.net/wiki/doku.php?id=hybrid_atttack_with_rules
+https://hashcat.net/wiki/doku.php?id=hybrid_attack
+
+hashcat -m WHATEVER -a 6 dict.txt ?a?a?a?a (Modify your character set accordingly)
 
 
 When time permits, an incrementing brute force: hashcat -m WHATEVER hashes.txt -a 3 ?a?a?a?a?a?a?a?a --increment
