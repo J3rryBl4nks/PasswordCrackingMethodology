@@ -18,6 +18,8 @@ Rules:
 
 OneRuleToRuleThemAll: https://github.com/NotSoSecure/password_cracking_rules
 
+OneRuleToRuleThemStill: https://github.com/stealthsploit/OneRuleToRuleThemStill
+
 H0bRules: https://github.com/praetorian-code/Hob0Rules
 
 Masks:
